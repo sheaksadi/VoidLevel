@@ -1,0 +1,8 @@
+name: VoidLevel
+main: me.sheaksadi.VoidLevel
+version: 1.0
+author: sheaksadi
+
+
+commands:
+  voidlevel:

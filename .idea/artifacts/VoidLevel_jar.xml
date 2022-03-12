@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VoidLevel:jar">
+    <output-path>$PROJECT_DIR$/../../../../dumbWindows/New folder/plugins</output-path>
+    <root id="archive" name="VoidLevel.jar">
+      <element id="module-output" name="VoidLevel" />
+    </root>
+  </artifact>
+</component>
